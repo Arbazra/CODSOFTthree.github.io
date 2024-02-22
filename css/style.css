@@ -8,7 +8,7 @@
     align-items: center;
     justify-content: center;
     height: 100vh;
-    background-image: url(/img/bg7.jpeg);
+    background-image: url(../img/bg7.jpeg);
     background-repeat: no-repeat;
     background-size:cover;
 }
